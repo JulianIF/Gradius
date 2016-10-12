@@ -16,7 +16,7 @@
     <Width>2560</Width>
     <Height>256</Height>
   </LevelMaximumSize>
-  <Filename>C:\Users\113\Desktop\New Project.oep</Filename>
+  <Filename>C:\Users\113\Desktop\Gradius\assets\data\New Project.oep</Filename>
   <AngleMode>Radians</AngleMode>
   <CameraEnabled>true</CameraEnabled>
   <CameraSize>
@@ -53,7 +53,7 @@
   <Tilesets>
     <Tileset>
       <Name>NewTileset0</Name>
-      <FilePath>..\Downloads\New Piskel.png</FilePath>
+      <FilePath>..\images\Tiless.png</FilePath>
       <TileSize>
         <Width>16</Width>
         <Height>16</Height>
